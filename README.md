@@ -73,6 +73,13 @@ implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
 ---
 
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+git checkout -b feature/add-sound-effect
+
+---
+
 
 ### Author
 **Domonique Staple**  
